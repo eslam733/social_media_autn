@@ -1,4 +1,4 @@
-package com.example.social_media_autn
+package com.socialmediaautn.test
 
 import io.flutter.embedding.android.FlutterActivity
 
